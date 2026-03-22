@@ -25,3 +25,4 @@ elif quest == "**":
 
 else:
 	print("Операция нарушена (Возожная причина - неверно введенные данные.)")
+I would like to improve this calculator by adding more operations.
